@@ -2,6 +2,8 @@
 
 ![alt tag](https://user-images.githubusercontent.com/14192093/55670968-71a5be80-58c5-11e9-9b0a-f57bef402d38.png)
 
+[![App Store](https://user-images.githubusercontent.com/14192093/57191513-a27b2100-6f61-11e9-9e75-2b47d3aeb2da.png)](https://itunes.apple.com/app/id1451188706)
+
 ### 오늘의 자외선이 여러분의 피부를 지켜드립니다.
 - 실시간 위치 기반 자외선 정보를 제공하는 어플
 - 위젯 기능 지원하여 빠르고 편하게 확인 가능!
